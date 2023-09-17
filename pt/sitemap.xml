@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.agrobi.com.ar/pt/services/apis-development/</loc>
+    <loc>https://www.agrobi.com.ar/pt/services/data-analysis-and-business-intelligence/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.agrobi.com.ar/services/apis-development/"
+                href="https://www.agrobi.com.ar/services/data-analysis-and-business-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.agrobi.com.ar/en/services/apis-development/"
+                href="https://www.agrobi.com.ar/en/services/data-analysis-and-business-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.agrobi.com.ar/pt/services/apis-development/"
+                href="https://www.agrobi.com.ar/pt/services/data-analysis-and-business-intelligence/"
+                />
+  </url><url>
+    <loc>https://www.agrobi.com.ar/pt/services/reporting/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.agrobi.com.ar/services/reporting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.agrobi.com.ar/en/services/reporting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.agrobi.com.ar/pt/services/reporting/"
                 />
   </url><url>
     <loc>https://www.agrobi.com.ar/pt/services/commodities-trading-solutions/</loc>
@@ -38,24 +56,6 @@
                 href="https://www.agrobi.com.ar/pt/services/commodities-trading-solutions/"
                 />
   </url><url>
-    <loc>https://www.agrobi.com.ar/pt/services/data-analysis-and-business-intelligence/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.agrobi.com.ar/services/data-analysis-and-business-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.agrobi.com.ar/en/services/data-analysis-and-business-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.agrobi.com.ar/pt/services/data-analysis-and-business-intelligence/"
-                />
-  </url><url>
     <loc>https://www.agrobi.com.ar/pt/services/data-analytics-corporate-training/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
@@ -72,24 +72,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://www.agrobi.com.ar/pt/services/data-analytics-corporate-training/"
-                />
-  </url><url>
-    <loc>https://www.agrobi.com.ar/pt/services/reporting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.agrobi.com.ar/services/reporting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.agrobi.com.ar/en/services/reporting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.agrobi.com.ar/pt/services/reporting/"
                 />
   </url><url>
     <loc>https://www.agrobi.com.ar/pt/services/mlops-and-mlm-llm-implementation/</loc>
@@ -216,24 +198,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://www.agrobi.com.ar/pt/services/rpa-and-light-weight-apps-development/"
-                />
-  </url><url>
-    <loc>https://www.agrobi.com.ar/pt/services/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.agrobi.com.ar/services/business-advisory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.agrobi.com.ar/en/services/business-advisory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.agrobi.com.ar/pt/services/business-advisory/"
                 />
   </url><url>
     <loc>https://www.agrobi.com.ar/pt/</loc>

@@ -1,117 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on AgroBI</title>
+    <title>Servicios on AgroBI: Análisis de Datos y Soluciones de BI aplicadas al Agro</title>
     <link>https://www.agrobi.com.ar/services/</link>
-    <description>Recent content in Services on AgroBI</description>
+    <description>Recent content in Servicios on AgroBI: Análisis de Datos y Soluciones de BI aplicadas al Agro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.agrobi.com.ar/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>APIs Development</title>
-      <link>https://www.agrobi.com.ar/services/apis-development/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://www.agrobi.com.ar/services/apis-development/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Commodities Trading Solutions</title>
-      <link>https://www.agrobi.com.ar/services/commodities-trading-solutions/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://www.agrobi.com.ar/services/commodities-trading-solutions/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Data Analysis and Business Intelligence</title>
+      <title>Análisis de Datos e Inteligencia Empresarial</title>
       <link>https://www.agrobi.com.ar/services/data-analysis-and-business-intelligence/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/data-analysis-and-business-intelligence/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>En el paisaje en constante evolución de la agricultura, tomar decisiones basadas en datos de manera oportuna es la clave para la sostenibilidad y el crecimiento. El servicio de Análisis de Datos e Inteligencia Empresarial de AgroBI se sitúa en la confluencia de la ciencia de datos y la experiencia agrícola, convirtiendo datos brutos en valiosos insights empresariales.
+Eleve Su Empresa Agrícola Aproveche las vastas corrientes de datos generadas en el sector agrícola.</description>
     </item>
     
     <item>
-      <title>Data Analytics Corporate Training</title>
+      <title>Capacitación Corporativa en Análisis de Datos</title>
       <link>https://www.agrobi.com.ar/services/data-analytics-corporate-training/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/data-analytics-corporate-training/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>En una era donde los datos son el nuevo oro, es primordial empoderar a su equipo con habilidades en análisis de datos. El programa de Capacitación Corporativa en Análisis de Datos de AgroBI está meticulosamente diseñado para inculcar habilidades de manejo, análisis e interpretación de datos en su fuerza laboral, adaptadas específicamente para el sector agrícola.
+Cultive una Cultura Basada en Datos Nuestras iniciativas de capacitación corporativa ayudan a las empresas a:</description>
     </item>
     
     <item>
-      <title>Reporting</title>
+      <title>Reportes</title>
       <link>https://www.agrobi.com.ar/services/reporting/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/reporting/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>En el vasto mundo de la agricultura impulsado por datos, la habilidad de interpretar datos de manera rápida y efectiva es primordial. El servicio de Reportes de AgroBI tiene como objetivo transformar sus datos complejos en informes claros, concisos y visualmente atractivos que potencian la toma de decisiones y promueven las estrategias de las empresas agrícolas.
+Narrativas de Datos que Tienen Sentido Nuestros servicios de reportes se centran en:
+Informes Personalizados: Ajustados a las necesidades específicas de su negocio agrícola, garantizando relevancia y precisión.</description>
     </item>
     
     <item>
-      <title>MLOpes and MLM &amp; LLM Implementation</title>
+      <title>Soluciones para el Comercio de Commodities</title>
+      <link>https://www.agrobi.com.ar/services/commodities-trading-solutions/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.agrobi.com.ar/services/commodities-trading-solutions/</guid>
+      <description>El mercado de commodities, con sus precios volátiles y dinámicas globales, exige estrategias astutas e insights en tiempo real. En AgroBI, nuestras Soluciones para el Comercio de Commodities cierran la brecha entre datos brutos y estrategias comerciales accionables, adaptadas a los matices del sector agrícola.
+Navegue el Mercado de Commodities con Confianza Con una combinación intrincada de tecnología y experiencia de mercado, nuestras soluciones equipan a los comerciantes para:
+Insights del Mercado en Tiempo Real: Manténgase al tanto del mercado global de commodities con actualizaciones en vivo, asegurándose de no perder ninguna oportunidad.</description>
+    </item>
+    
+    <item>
+      <title>MLOpes y Implementación de MLM &amp; LLM</title>
       <link>https://www.agrobi.com.ar/services/mlops-and-mlm-llm-implementation/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/mlops-and-mlm-llm-implementation/</guid>
-      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
-Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?
-Imagine Assaracus victori petet femina mea haustos Sicaniam quibus agro magni In utque Troica pedum caelestia hunc tempto Gregibus certare tamen turbatque qui Patulis Veneris est expulit adversaque magnum mediaque Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit.</description>
+      <description>La intersección de la agricultura y la tecnología nunca ha sido más crucial o dinámica. En AgroBI, reconocemos el poder transformador del Machine Learning (ML). A través de nuestros servicios de MLOps e Implementación de MLM &amp;amp; LLM, llevamos lo mejor del ML al frente, asegurando que tus esfuerzos agrícolas no solo estén informados por datos sino que también sean predictivos y proactivos.
+Construyendo el Futuro de la Agricultura con ML Nuestros avanzados servicios de ML se centran en:</description>
     </item>
     
     <item>
-      <title>ETL Pipelines and Orchestration</title>
+      <title>Pipelines ETL y Orquestación</title>
       <link>https://www.agrobi.com.ar/services/etl-pipelines-and-orchestration/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/etl-pipelines-and-orchestration/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>Los datos, en su forma cruda, a menudo están dispersos, son inconsistentes y no se pueden usar directamente. Los procesos ETL (Extraer, Transformar, Cargar) son la base para hacer que estos datos sean coherentes y valiosos. El servicio de Pipelines ETL y Orquestación de AgroBI garantiza un flujo de datos optimizado y automatizado, diseñado específicamente para satisfacer las complejas necesidades del sector agrícola.
+De Datos Crudos a Insights Refinados Nuestros servicios ETL están diseñados para:</description>
     </item>
     
     <item>
-      <title>Crawlers &amp; Scrapers Development</title>
+      <title>Desarrollo de Crawlers &amp; Scrapers</title>
       <link>https://www.agrobi.com.ar/services/crawlers-scrapers-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/crawlers-scrapers-development/</guid>
-      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
-Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
+      <description>La era digital ha abierto las puertas a una riqueza de información en línea. Sin embargo, aprovechar estos datos de manera efectiva sigue siendo un desafío. En AgroBI, nuestro servicio de Desarrollo de Crawlers &amp;amp; Scrapers proporciona las herramientas para recopilar y organizar sistemáticamente grandes cantidades de datos web, convirtiendo el vasto espacio en línea en una mina de oro para tus operaciones agrícolas.
+Transforma el Contenido Web en Insights Accionables Con nuestros servicios especializados, puedes esperar:</description>
     </item>
     
     <item>
-      <title>RPA and Light-Weight Apps Development</title>
+      <title>RPA y Desarrollo de Aplicaciones Ligeras</title>
       <link>https://www.agrobi.com.ar/services/rpa-and-light-weight-apps-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>https://www.agrobi.com.ar/services/rpa-and-light-weight-apps-development/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Business Advisory</title>
-      <link>https://www.agrobi.com.ar/services/business-advisory/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>https://www.agrobi.com.ar/services/business-advisory/</guid>
-      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+      <description>En el panorama rápidamente evolutivo de la agricultura, donde la eficiencia y agilidad son clave, la Automatización Robótica de Procesos (RPA) y las aplicaciones ligeras pueden ser revolucionarias. El servicio de RPA y Desarrollo de Aplicaciones Ligeras de AgroBI combina el poder de la automatización con aplicaciones ágiles, especialmente diseñadas para el mundo dinámico de la agricultura.
+Soluciones Modernas para Desafíos Modernos Nuestras ofertas de RPA y desarrollo de aplicaciones buscan:</description>
     </item>
     
   </channel>
