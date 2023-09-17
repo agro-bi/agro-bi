@@ -1,0 +1,7 @@
+# Allow all bots to access the entire site
+User-agent: *
+Disallow:
+
+# Disallow a specific bot from accessing a specific folder
+User-agent: *
+Disallow: /images/
